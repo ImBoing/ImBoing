@@ -22,6 +22,7 @@
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![MongoDB](https://camo.githubusercontent.com/767fd7b1a80de584bc961ce9ab515c6cc07bb0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462)
 ![Npm](https://img.shields.io/badge/-Npm-cb3837?style=flat-square&labelColor=cb3837&logo=NPM&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
