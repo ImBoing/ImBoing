@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/-Boing-1d954?style=flat-square&labelColor=1d954&logo=spotify&logoColor=white)](https://open.spotify.com/user/wzbm5w4w09q6a6chqv9ihp4ir)
 [![](https://img.shields.io/badge/-mailtylerlo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailtylerlo@gmail.com)](mailto:mailtylerlo@gmail.com)
 
+𝙸 ❤️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝙱𝚘𝚝𝚜
 Hey I am Tyler 😃, I am from New York City, New York and currently attending my freshman year of high school 🏫. I love to code and learn new things.
 
 ## ⚡ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
