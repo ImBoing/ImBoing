@@ -19,4 +19,5 @@ Hey I am Tyler 😃, I am from New York City, New York and currently attending m
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ## 🧠 My Stats
+![Boing's github stats](https://github-readme-stats.vercel.app/api?username=ImBoing&show_icons=true&theme=dracula)
 
