@@ -18,3 +18,5 @@ Hey I am Tyler 😃, I am from New York City, New York and currently attending m
 ![Npm](https://img.shields.io/badge/-Npm-cb3837?style=flat-square&labelColor=cb3837&logo=NPM&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
+## 🧠 My Stats
+
