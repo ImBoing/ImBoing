@@ -5,3 +5,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-@tylerlo_-833ab4?style=flat-square&labelColor=833ab4&logo=instagram&logoColor=white&link=https://www.instagram.com/tylerlo_)](https://www.instagram.com/tylerlo_) [![Spotify Badge](https://img.shields.io/badge/-Boing-1d954?style=flat-square&labelColor=1d954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/wzbm5w4w09q6a6chqv9ihp4ir)](https://open.spotify.com/user/wzbm5w4w09q6a6chqv9ihp4ir) [![Gmail Badge](https://img.shields.io/badge/-mailtylerlo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailtylerlo@gmail.com)](mailto:mailtylerlo@gmail.com)
 
 Hey I am Tyler 😃, I am from New York City, New York and currently attending my freshman year of high school 🏫. I love to code and learn new things.
+
+## ⚡ My Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Npm](https://img.shields.io/badge/-npm-cb3837?style=flat-square&labelColor=cb3837&logo=NPM&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
