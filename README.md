@@ -6,6 +6,8 @@
 [![](https://img.shields.io/badge/-mailtylerlo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailtylerlo@gmail.com)](mailto:mailtylerlo@gmail.com)
 
 𝙸 ❤️ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝙱𝚘𝚝𝚜
+
+:vulcan_salute: 𝙸 𝚖𝚊𝚒𝚗𝚕𝚢 𝚞𝚜𝚎 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 𝚒𝚗 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚊𝚗𝚍 𝙸 𝚕𝚘𝚟𝚎 𝙳𝚒𝚜𝚌𝚘𝚛𝚍.𝙹𝚂
 Hey I am Tyler 😃, I am from New York City, New York and currently attending my freshman year of high school 🏫. I love to code and learn new things.
 
 ## ⚡ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
