@@ -10,7 +10,8 @@
 👨‍💻 𝙽𝚘 𝚌𝚘𝚍𝚎 𝚑𝚊𝚜 𝚣𝚎𝚛𝚘 𝚍𝚎𝚏𝚎𝚌𝚝𝚜.
 
 🖖 𝙸 𝚙𝚞𝚝 𝚖𝚘𝚜𝚝 𝚖𝚢 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚠𝚒𝚝𝚑 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝.
-Hey I am Tyler 😃, I am from New York City, New York and currently attending my freshman year of high school 🏫. I love to code and learn new things.
+
+✍️ 𝙸 𝚕𝚘𝚟𝚎 𝚜𝚑𝚊𝚛𝚒𝚗𝚐 𝚖𝚢 𝚠𝚊𝚌𝚔 𝚌𝚛𝚎𝚊𝚝𝚒𝚘𝚗𝚜.
 
 ## ⚡ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
