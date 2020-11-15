@@ -5,6 +5,8 @@
 [![](https://img.shields.io/badge/-Boing-1d954?style=flat-square&labelColor=1d954&logo=spotify&logoColor=white)](https://open.spotify.com/user/wzbm5w4w09q6a6chqv9ihp4ir)
 [![](https://img.shields.io/badge/-mailtylerlo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailtylerlo@gmail.com)](mailto:mailtylerlo@gmail.com)
 
+𝙸 ❤️ 𝙳𝚒𝚜𝚌𝚘𝚛𝚍.𝙹𝚂
+
 👨‍💻 𝙽𝚘 𝚌𝚘𝚍𝚎 𝚑𝚊𝚜 𝚣𝚎𝚛𝚘 𝚍𝚎𝚏𝚎𝚌𝚝𝚜.
 
 :vulcan_salute: 𝙸 𝚖𝚊𝚒𝚗𝚕𝚢 𝚞𝚜𝚎 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝 𝚒𝚗 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚊𝚗𝚍 𝙸 𝚕𝚘𝚟𝚎 𝙳𝚒𝚜𝚌𝚘𝚛𝚍.𝙹𝚂
