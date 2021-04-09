@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://i.imgur.com/Yrx6AFw.png' width='300'>
+
 
 [![](https://img.shields.io/badge/-@tylerlo_-833ab4?style=flat-square&labelColor=833ab4&logo=instagram&logoColor=white)](https://www.instagram.com/tylerlo_)
 [![](https://img.shields.io/badge/-@ImBoing-%23181717?style=flat-square&logo=github)](https://github.com/ImBoing)
